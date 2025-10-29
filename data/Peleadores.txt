@@ -1,0 +1,9 @@
+Jon Jones;12345678;EEUU;93.0;Semi Pesado;120;EXCLUSIVO
+Conor McGregor;23456789;Irlanda;70.0;Ligero;90;TEMPORAL
+Israel Adesanya;34567890;Nigeria;84.0;Mediano;110;EXCLUSIVO
+Dustin Poirier;45678901;EEUU;70.0;Ligero;85;TEMPORAL
+Kamaru Usman;56789012;Nigeria;77.0;Welter;100;EXCLUSIVO
+Charles Oliveira;67890123;Brasil;70.0;Ligero;95;EXCLUSIVO
+Robert Whittaker;78901234;Australia;84.0;Mediano;88;TEMPORAL
+Sean O'Malley;89012345;EEUU;61.0;Gallo;92;TEMPORAL
+Ilia Topuria;90123456;España;66.0;Pluma;98;EXCLUSIVO
